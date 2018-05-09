@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+.brand-logo{
+    font-family: 'Abril Fatface', cursive;
+    color:#2962ff!important;
+}
+nav ul a:hover {
+    background-color: #2962ff;
+    color: white!important;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+  nav ul a {
+    color: #2962ff!important;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.card-title{
+    color: black !important;
+}
